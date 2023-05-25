@@ -1,0 +1,2769 @@
+[
+    {
+        "name": "Abracadabra Coffee Company",
+        "coordinates": [
+            43.65968,
+            -72.578125
+        ]
+    },
+    {
+        "name": "Adams Family Farm",
+        "coordinates": [
+            44.365809,
+            -72.079068
+        ]
+    },
+    {
+        "name": "Addison County Maple Sugarmaker's Assoc",
+        "coordinates": [
+            44.0920131,
+            -72.9916789
+        ]
+    },
+    {
+        "name": "Agricola Farms",
+        "coordinates": [
+            44.1539751,
+            -73.3392627
+        ]
+    },
+    {
+        "name": "Aletas Ice Cream Co",
+        "coordinates": [
+            44.5866372,
+            -71.9445352
+        ]
+    },
+    {
+        "name": "Allenholm Farm",
+        "coordinates": [
+            44.6315077,
+            -73.3022384
+        ]
+    },
+    {
+        "name": "Als Ice Cream",
+        "coordinates": [
+            44.4671954,
+            -73.174327
+        ]
+    },
+    {
+        "name": "Amy's Trading Post",
+        "coordinates": [
+            43.4088262,
+            -73.2264782
+        ]
+    },
+    {
+        "name": "Applegreen New England Inc",
+        "coordinates": [
+            43.142562,
+            -72.455316
+        ]
+    },
+    {
+        "name": "Applegreen New England Inc",
+        "coordinates": [
+            43.9087076,
+            -72.1413603
+        ]
+    },
+    {
+        "name": "Applegreen New England Inc",
+        "coordinates": [
+            43.3962142,
+            -72.6988783
+        ]
+    },
+    {
+        "name": "April's Maple LLC",
+        "coordinates": [
+            45.0061936,
+            -71.6677146
+        ]
+    },
+    {
+        "name": "Archie's Grill 4066",
+        "coordinates": [
+            44.3977604,
+            -73.2202874
+        ]
+    },
+    {
+        "name": "Arlington Deli & Liquor",
+        "coordinates": [
+            43.084598,
+            -73.144087
+        ]
+    },
+    {
+        "name": "Ascutney Market",
+        "coordinates": [
+            43.4201657,
+            -72.4030788
+        ]
+    },
+    {
+        "name": "Ava's Candy Corner",
+        "coordinates": [
+            43.6478798,
+            -72.3193499
+        ]
+    },
+    {
+        "name": "Bald Mountain Market",
+        "coordinates": [
+            43.577955,
+            -72.947419
+        ]
+    },
+    {
+        "name": "Barnard General Store",
+        "coordinates": [
+            43.693853,
+            -72.611398
+        ]
+    },
+    {
+        "name": "Barnyard Dairy",
+        "coordinates": [
+            43.7140211,
+            -72.6238128
+        ]
+    },
+    {
+        "name": "Ben & Jerry's",
+        "coordinates": [
+            44.3530036,
+            -72.7401461
+        ]
+    },
+    {
+        "name": "Besharas 99 Cents and Up LLC",
+        "coordinates": [
+            42.880584,
+            -73.1930783
+        ]
+    },
+    {
+        "name": "Beverage Den",
+        "coordinates": [
+            42.8857212,
+            -73.1984907
+        ]
+    },
+    {
+        "name": "Big Cones LLC",
+        "coordinates": [
+            44.154397,
+            -72.0467854
+        ]
+    },
+    {
+        "name": "Bliss Rite Pizza Co.",
+        "coordinates": [
+            44.518664,
+            -72.003041
+        ]
+    },
+    {
+        "name": "Bliss Village Store & Deli",
+        "coordinates": [
+            43.9910955,
+            -72.1301804
+        ]
+    },
+    {
+        "name": "Blueberry Haus",
+        "coordinates": [
+            42.8096278,
+            -72.586448
+        ]
+    },
+    {
+        "name": "Bob's Meat Market",
+        "coordinates": [
+            44.806388,
+            -73.077239
+        ]
+    },
+    {
+        "name": "Bragg Farm Sugarhouse & Gift Shop",
+        "coordinates": [
+            44.573077,
+            -72.557901
+        ]
+    },
+    {
+        "name": "Bristol Country Store, Inc",
+        "coordinates": [
+            44.066603,
+            -73.087873
+        ]
+    },
+    {
+        "name": "Bristol Shell",
+        "coordinates": [
+            44.1330655,
+            -73.0792507
+        ]
+    },
+    {
+        "name": "Buck Stop Mini-Mart",
+        "coordinates": [
+            42.8788645,
+            -73.1858362
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            44.227609,
+            -72.552407
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            42.8381606,
+            -72.5653281
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            44.503709,
+            -73.1815972
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            43.594002,
+            -73.039857
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            44.4432301,
+            -73.2098292
+        ]
+    },
+    {
+        "name": "Burger King",
+        "coordinates": [
+            44.8340113,
+            -73.0791444
+        ]
+    },
+    {
+        "name": "Burlington Bay Market and Cafe",
+        "coordinates": [
+            44.4765254,
+            -73.2191493
+        ]
+    },
+    {
+        "name": "Burlington Shell (Main Street)",
+        "coordinates": [
+            44.4756784,
+            -73.2104646
+        ]
+    },
+    {
+        "name": "Burlington Shell (North Ave.)",
+        "coordinates": [
+            44.490371,
+            -73.2269048
+        ]
+    },
+    {
+        "name": "Burlington Sunoco",
+        "coordinates": [
+            44.4549865,
+            -73.2087207
+        ]
+    },
+    {
+        "name": "C Village Store Inc",
+        "coordinates": [
+            44.6356811,
+            -72.3727777
+        ]
+    },
+    {
+        "name": "C&M Concessions",
+        "coordinates": [
+            44.7202852,
+            -73.2943218
+        ]
+    },
+    {
+        "name": "Castleton Village Store Inc",
+        "coordinates": [
+            43.6116172,
+            -73.177166
+        ]
+    },
+    {
+        "name": "Central Market Burlington",
+        "coordinates": [
+            44.4888133,
+            -73.2068201
+        ]
+    },
+    {
+        "name": "Char-Bo Campground",
+        "coordinates": [
+            44.920114,
+            -72.097487
+        ]
+    },
+    {
+        "name": "Chelsea Royal Diner",
+        "coordinates": [
+            42.8675652,
+            -72.6210451
+        ]
+    },
+    {
+        "name": "Chick's Market",
+        "coordinates": [
+            44.493217,
+            -73.1928973
+        ]
+    },
+    {
+        "name": "Chocolate Barn",
+        "coordinates": [
+            43.002927,
+            -73.196737
+        ]
+    },
+    {
+        "name": "Chucksize Enterprises LLC",
+        "coordinates": [
+            44.4781357,
+            -73.209684
+        ]
+    },
+    {
+        "name": "Circle K",
+        "coordinates": [
+            43.2642752,
+            -72.4362731
+        ]
+    },
+    {
+        "name": "Cold Cow Creamery",
+        "coordinates": [
+            43.1745498,
+            -73.0602216
+        ]
+    },
+    {
+        "name": "Coleman Brook Tavern",
+        "coordinates": [
+            43.4228219,
+            -72.7165884
+        ]
+    },
+    {
+        "name": "Cones Point General Store",
+        "coordinates": [
+            43.476186,
+            -73.201762
+        ]
+    },
+    {
+        "name": "Costco",
+        "coordinates": [
+            44.5043116,
+            -73.1746517
+        ]
+    },
+    {
+        "name": "Country Girl Diner",
+        "coordinates": [
+            43.2581559,
+            -72.588079
+        ]
+    },
+    {
+        "name": "Creemee Stand",
+        "coordinates": [
+            42.905164,
+            -72.851389
+        ]
+    },
+    {
+        "name": "Crossroads Beverage",
+        "coordinates": [
+            44.3416404,
+            -72.7598841
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            42.8959781,
+            -73.2038927
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            42.8662443,
+            -72.6160023
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.4978364,
+            -73.158567
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.5330622,
+            -72.0035822
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.2560772,
+            -72.5763311
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.5617725,
+            -72.598318
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.9435449,
+            -72.1932763
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.1588101,
+            -72.6566325
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.9273224,
+            -72.6652633
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            44.4051848,
+            -72.9933238
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.5937171,
+            -72.9694085
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.4761365,
+            -72.9768524
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.6589776,
+            -72.3147894
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.4790407,
+            -72.3872476
+        ]
+    },
+    {
+        "name": "Cumberland Farms",
+        "coordinates": [
+            43.630419,
+            -72.505599
+        ]
+    },
+    {
+        "name": "Cumberland Farms (North Main Street)",
+        "coordinates": [
+            44.2074388,
+            -72.5130425
+        ]
+    },
+    {
+        "name": "Cumberland Farms (Pine Street)",
+        "coordinates": [
+            44.460764,
+            -73.2151071
+        ]
+    },
+    {
+        "name": "Cumberland Farms (Riverside Ave.)",
+        "coordinates": [
+            44.4886802,
+            -73.2012292
+        ]
+    },
+    {
+        "name": "Cumberland Farms (South Main Street)",
+        "coordinates": [
+            44.1896068,
+            -72.4980277
+        ]
+    },
+    {
+        "name": "Cygnus Home Service",
+        "coordinates": [
+            43.535739,
+            -72.970114
+        ]
+    },
+    {
+        "name": "Cygnus Home Services",
+        "coordinates": [
+            44.5935271,
+            -73.1689963
+        ]
+    },
+    {
+        "name": "Dairy Creme",
+        "coordinates": [
+            44.2585599,
+            -72.6068086
+        ]
+    },
+    {
+        "name": "Dakin Farm II",
+        "coordinates": [
+            44.466996,
+            -73.181161
+        ]
+    },
+    {
+        "name": "Dakin Farm, Inc",
+        "coordinates": [
+            44.249369,
+            -73.228864
+        ]
+    },
+    {
+        "name": "Dan & Sheila's Country Store & Deli",
+        "coordinates": [
+            44.6899056,
+            -72.7693781
+        ]
+    },
+    {
+        "name": "Dan & Whit's General Store",
+        "coordinates": [
+            43.7136654,
+            -72.3081535
+        ]
+    },
+    {
+        "name": "Depot Square Pizzeria",
+        "coordinates": [
+            44.1489841,
+            -72.6569885
+        ]
+    },
+    {
+        "name": "Devyn's Creemee Stand",
+        "coordinates": [
+            44.917343,
+            -73.124836
+        ]
+    },
+    {
+        "name": "Dorset Union Store",
+        "coordinates": [
+            43.2545204,
+            -73.0993137
+        ]
+    },
+    {
+        "name": "Dutton Farm",
+        "coordinates": [
+            42.8656893,
+            -72.6149492
+        ]
+    },
+    {
+        "name": "Dutton Farm",
+        "coordinates": [
+            42.966216,
+            -72.6558307
+        ]
+    },
+    {
+        "name": "Dutton Farm Stand",
+        "coordinates": [
+            43.1849704,
+            -73.0051222
+        ]
+    },
+    {
+        "name": "East Poultney General Store",
+        "coordinates": [
+            43.5262747,
+            -73.204856
+        ]
+    },
+    {
+        "name": "Essex Shell",
+        "coordinates": [
+            44.509096,
+            -73.055526
+        ]
+    },
+    {
+        "name": "Evansville Trading Post Inc",
+        "coordinates": [
+            44.802235,
+            -72.129404
+        ]
+    },
+    {
+        "name": "Express Way",
+        "coordinates": [
+            44.952666,
+            -72.148327
+        ]
+    },
+    {
+        "name": "Falls General Store, LLC",
+        "coordinates": [
+            44.1720972,
+            -72.6507787
+        ]
+    },
+    {
+        "name": "Family Dollar ",
+        "coordinates": [
+            44.5253716,
+            -72.0007693
+        ]
+    },
+    {
+        "name": "Finelli Colchester Variety",
+        "coordinates": [
+            44.5518813,
+            -73.1634558
+        ]
+    },
+    {
+        "name": "Finest Kind Dairy",
+        "coordinates": [
+            44.7051799,
+            -73.284975
+        ]
+    },
+    {
+        "name": "Flower to Flour Bakery LLC",
+        "coordinates": [
+            44.9058712,
+            -72.8057104
+        ]
+    },
+    {
+        "name": "Full Belly Farm",
+        "coordinates": [
+            44.265172,
+            -73.1334011
+        ]
+    },
+    {
+        "name": "G & L General Store",
+        "coordinates": [
+            43.71627,
+            -73.298707
+        ]
+    },
+    {
+        "name": "G&L General Store",
+        "coordinates": [
+            43.692308,
+            -73.292925
+        ]
+    },
+    {
+        "name": "Gagne Maple LLC",
+        "coordinates": [
+            44.93759,
+            -73.049592
+        ]
+    },
+    {
+        "name": "Gassaway's Tastee Freeze",
+        "coordinates": [
+            42.8857221,
+            -73.1984926
+        ]
+    },
+    {
+        "name": "Georgia Farmhouse Restaurant, Inc.",
+        "coordinates": [
+            44.69091,
+            -73.108904
+        ]
+    },
+    {
+        "name": "Glacier Lake Stores, LLC",
+        "coordinates": [
+            44.8125534,
+            -72.0773421
+        ]
+    },
+    {
+        "name": "Gladstone Creamery LLC",
+        "coordinates": [
+            43.928681,
+            -72.196635
+        ]
+    },
+    {
+        "name": "Glovers Family Market and Deli Inc",
+        "coordinates": [
+            44.9509797,
+            -72.3072075
+        ]
+    },
+    {
+        "name": "Goodies LLC Snack Bar",
+        "coordinates": [
+            44.0813494,
+            -73.4015731
+        ]
+    },
+    {
+        "name": "Goodies Snack Bar",
+        "coordinates": [
+            44.063238,
+            -73.407516
+        ]
+    },
+    {
+        "name": "Gouchberg Farms Market & Deli",
+        "coordinates": [
+            43.5315815,
+            -72.9374359
+        ]
+    },
+    {
+        "name": "Goulet Farm",
+        "coordinates": [
+            44.657679,
+            -73.321364
+        ]
+    },
+    {
+        "name": "Grand Avenue Quickstop",
+        "coordinates": [
+            44.9178413,
+            -73.1240196
+        ]
+    },
+    {
+        "name": "Grand Isle Ice Cream Company LLC",
+        "coordinates": [
+            44.6918224,
+            -73.3457652
+        ]
+    },
+    {
+        "name": "Green Mountain Ice Cream",
+        "coordinates": [
+            43.817802,
+            -73.261562
+        ]
+    },
+    {
+        "name": "Green Mountain Sugarhouse",
+        "coordinates": [
+            43.441564,
+            -72.698976
+        ]
+    },
+    {
+        "name": "Hanover Consumer Co-op",
+        "coordinates": [
+            43.651819,
+            -72.318284
+        ]
+    },
+    {
+        "name": "Happy Cow Cones LLC",
+        "coordinates": [
+            43.608452,
+            -72.980616
+        ]
+    },
+    {
+        "name": "Harborside Harvest Market",
+        "coordinates": [
+            44.883616,
+            -73.271944
+        ]
+    },
+    {
+        "name": "Hardwick House of Pizza Inc",
+        "coordinates": [
+            44.5079584,
+            -72.3715265
+        ]
+    },
+    {
+        "name": "Hartman's Farmstand",
+        "coordinates": [
+            44.9102679,
+            -72.8903097
+        ]
+    },
+    {
+        "name": "Heather's Sweet Treats",
+        "coordinates": [
+            44.488731,
+            -73.1117821
+        ]
+    },
+    {
+        "name": "Heer Inc",
+        "coordinates": [
+            43.084598,
+            -73.144087
+        ]
+    },
+    {
+        "name": "Henry's Market Inc",
+        "coordinates": [
+            42.8791969,
+            -73.1826722
+        ]
+    },
+    {
+        "name": "Hidden Springs Maple LLC",
+        "coordinates": [
+            42.9845549,
+            -72.5278117
+        ]
+    },
+    {
+        "name": "Highgate Jolley",
+        "coordinates": [
+            44.9394264,
+            -73.0435656
+        ]
+    },
+    {
+        "name": "Hoagie's Pizza & Pasta",
+        "coordinates": [
+            44.572216,
+            -72.593056
+        ]
+    },
+    {
+        "name": "Hometown Beverage & Redemption, Inc.",
+        "coordinates": [
+            44.8085452,
+            -73.0840602
+        ]
+    },
+    {
+        "name": "Hometown Sunoco",
+        "coordinates": [
+            44.921391,
+            -73.1097713
+        ]
+    },
+    {
+        "name": "Indo-American Grocery",
+        "coordinates": [
+            42.8520139,
+            -72.5595955
+        ]
+    },
+    {
+        "name": "J & R Family Farm",
+        "coordinates": [
+            44.913782,
+            -72.354316
+        ]
+    },
+    {
+        "name": "Jacksonville Country Store",
+        "coordinates": [
+            42.797088,
+            -72.821535
+        ]
+    },
+    {
+        "name": "Jacksonville General Store",
+        "coordinates": [
+            42.7982773,
+            -72.822043
+        ]
+    },
+    {
+        "name": "Jay Peak Resort",
+        "coordinates": [
+            44.9380194,
+            -72.5047383
+        ]
+    },
+    {
+        "name": "Jericho Center Country Store Inc",
+        "coordinates": [
+            44.4699546,
+            -72.9732419
+        ]
+    },
+    {
+        "name": "Jiffy Mart",
+        "coordinates": [
+            43.981616,
+            -72.121284
+        ]
+    },
+    {
+        "name": "Jiffy Mart",
+        "coordinates": [
+            43.28965,
+            -73.001684
+        ]
+    },
+    {
+        "name": "Jiffy Mart",
+        "coordinates": [
+            44.1165358,
+            -72.8568064
+        ]
+    },
+    {
+        "name": "Jiffy Mart",
+        "coordinates": [
+            44.1619828,
+            -72.0904662
+        ]
+    },
+    {
+        "name": "Joe's Drive-In Snack Bar",
+        "coordinates": [
+            44.5042304,
+            -72.998269
+        ]
+    },
+    {
+        "name": "Jolley ",
+        "coordinates": [
+            42.8795301,
+            -73.1988481
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.237584,
+            -72.564568
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.515344,
+            -73.256379
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.9049193,
+            -72.8061892
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.256371,
+            -73.227958
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.334671,
+            -73.107649
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.504153,
+            -72.999625
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.635529,
+            -72.680352
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            43.1761846,
+            -73.0581238
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.0028059,
+            -73.1555901
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.6266093,
+            -73.1169397
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.9001277,
+            -72.6344343
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.2493608,
+            -72.5658164
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.291024,
+            -72.700052
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.948161,
+            -72.169939
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.9949928,
+            -72.6729798
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            43.6139051,
+            -72.9825046
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.9030572,
+            -72.973969
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.635719,
+            -73.266385
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            44.9207106,
+            -73.115774
+        ]
+    },
+    {
+        "name": "Jolley",
+        "coordinates": [
+            42.8655948,
+            -72.8640723
+        ]
+    },
+    {
+        "name": "Jolley (1110 Shelburne Road)",
+        "coordinates": [
+            44.4384219,
+            -73.2097683
+        ]
+    },
+    {
+        "name": "Jolley (977 Shelburne Road)",
+        "coordinates": [
+            44.4425702,
+            -73.2107632
+        ]
+    },
+    {
+        "name": "Jolley (Federal Street)",
+        "coordinates": [
+            44.8121706,
+            -73.0852912
+        ]
+    },
+    {
+        "name": "Jolley (North Main Street)",
+        "coordinates": [
+            44.8240784,
+            -73.0806241
+        ]
+    },
+    {
+        "name": "Junction Store & Deli Inc",
+        "coordinates": [
+            43.826979,
+            -73.053528
+        ]
+    },
+    {
+        "name": "K Group INC",
+        "coordinates": [
+            43.704589,
+            -73.013492
+        ]
+    },
+    {
+        "name": "Kaiju Kitchen LLC",
+        "coordinates": [
+            44.8127755,
+            -73.0835486
+        ]
+    },
+    {
+        "name": "Kampfires LLC Inn & Entertainment",
+        "coordinates": [
+            42.91487,
+            -72.537185
+        ]
+    },
+    {
+        "name": "Kate's",
+        "coordinates": [
+            44.5114999,
+            -72.9592745
+        ]
+    },
+    {
+        "name": "Keith's Country Store Inc",
+        "coordinates": [
+            43.708724,
+            -73.030237
+        ]
+    },
+    {
+        "name": "Kelly's Snack Shack",
+        "coordinates": [
+            43.473488,
+            -72.97698
+        ]
+    },
+    {
+        "name": "Lake Bomoseen Campground",
+        "coordinates": [
+            43.6834191,
+            -73.1897574
+        ]
+    },
+    {
+        "name": "Lakeview Camping Area LLC",
+        "coordinates": [
+            44.723951,
+            -72.504511
+        ]
+    },
+    {
+        "name": "Lakewood Campground Inc",
+        "coordinates": [
+            44.9349649,
+            -73.2110247
+        ]
+    },
+    {
+        "name": "Lazy Breeze Farm",
+        "coordinates": [
+            44.1143325,
+            -73.215347
+        ]
+    },
+    {
+        "name": "LBJ's Grocery",
+        "coordinates": [
+            44.3709865,
+            -72.5503596
+        ]
+    },
+    {
+        "name": "Leahy Center for Lake Champlain INC",
+        "coordinates": [
+            44.4765649,
+            -73.2210177
+        ]
+    },
+    {
+        "name": "LegenDairy Maple & Ice Cream LLC",
+        "coordinates": [
+            44.1177997,
+            -72.5370778
+        ]
+    },
+    {
+        "name": "Lexington Partners, Inc.",
+        "coordinates": [
+            44.518842,
+            -72.620251
+        ]
+    },
+    {
+        "name": "Limehurst Lake Campground",
+        "coordinates": [
+            44.106676,
+            -72.5409
+        ]
+    },
+    {
+        "name": "Little City Creemee",
+        "coordinates": [
+            44.4942946,
+            -73.1842683
+        ]
+    },
+    {
+        "name": "Lone Pine Campsites",
+        "coordinates": [
+            44.557348,
+            -73.1854724
+        ]
+    },
+    {
+        "name": "Lotus Roots LLC",
+        "coordinates": [
+            44.535726,
+            -73.24812
+        ]
+    },
+    {
+        "name": "Ludlow Shell",
+        "coordinates": [
+            43.3962191,
+            -72.6983748
+        ]
+    },
+    {
+        "name": "Lunenburg Variety LLC",
+        "coordinates": [
+            44.4630344,
+            -71.6846193
+        ]
+    },
+    {
+        "name": "M & B Snack Bar Inc",
+        "coordinates": [
+            43.582208,
+            -73.264653
+        ]
+    },
+    {
+        "name": "M White's Fuel Stop LLC",
+        "coordinates": [
+            43.377378,
+            -73.000577
+        ]
+    },
+    {
+        "name": "Mad Hatter's Scoops",
+        "coordinates": [
+            43.654983,
+            -72.786825
+        ]
+    },
+    {
+        "name": "Maple City LLC",
+        "coordinates": [
+            44.9249031,
+            -73.128281
+        ]
+    },
+    {
+        "name": "Maple Corner Community Store",
+        "coordinates": [
+            44.3753547,
+            -72.4953177
+        ]
+    },
+    {
+        "name": "Maple Grove Farms of Vermont",
+        "coordinates": [
+            44.4215061,
+            -71.9950712
+        ]
+    },
+    {
+        "name": "Maple Leaf Gifts & Wine",
+        "coordinates": [
+            43.6151426,
+            -72.962125
+        ]
+    },
+    {
+        "name": "Maplewood Convenience Stores Inc ",
+        "coordinates": [
+            43.827552,
+            -72.575358
+        ]
+    },
+    {
+        "name": "Maplewood Convenience Stores Inc ",
+        "coordinates": [
+            44.327013,
+            -72.741835
+        ]
+    },
+    {
+        "name": "Maplewood Convenience Stores Inc",
+        "coordinates": [
+            43.5808168,
+            -73.2645371
+        ]
+    },
+    {
+        "name": "Maplewood Convenience Stores INC",
+        "coordinates": [
+            44.1764394,
+            -72.5053598
+        ]
+    },
+    {
+        "name": "Maplewood Stores INC ",
+        "coordinates": [
+            44.2116724,
+            -72.5763989
+        ]
+    },
+    {
+        "name": "Marble Valley Kitchen",
+        "coordinates": [
+            43.6046513,
+            -72.9687497
+        ]
+    },
+    {
+        "name": "Market Station",
+        "coordinates": [
+            43.6470261,
+            -72.3344801
+        ]
+    },
+    {
+        "name": "Marshfield Village Store Inc",
+        "coordinates": [
+            44.351719,
+            -72.347664
+        ]
+    },
+    {
+        "name": "Martins General Store",
+        "coordinates": [
+            45.0108,
+            -73.086625
+        ]
+    },
+    {
+        "name": "Martins Mini Mart",
+        "coordinates": [
+            42.8789611,
+            -73.1989722
+        ]
+    },
+    {
+        "name": "McDonalds  (Heineberg Drive)",
+        "coordinates": [
+            44.535301,
+            -73.248351
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            42.8953606,
+            -73.2042623
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.197295,
+            -72.516115
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            42.8847293,
+            -72.5571322
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.952745,
+            -72.147612
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.9127152,
+            -72.7970739
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.508366,
+            -73.086198
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.814979,
+            -73.091903
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.6063205,
+            -73.2785595
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.52057,
+            -72.0009494
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.0023276,
+            -73.1541973
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.6245607,
+            -73.1239202
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.574591,
+            -72.592857
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.9439376,
+            -72.6258518
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.395156,
+            -73.00729
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.6068601,
+            -72.9768013
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.1748333,
+            -72.5068199
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.298701,
+            -72.481991
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.833878,
+            -73.0791319
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            44.9219592,
+            -73.1109425
+        ]
+    },
+    {
+        "name": "McDonalds",
+        "coordinates": [
+            43.64524,
+            -72.336174
+        ]
+    },
+    {
+        "name": "McDonalds (Shelburne Road)",
+        "coordinates": [
+            44.438711,
+            -73.210235
+        ]
+    },
+    {
+        "name": "McDonalds (South Park Drive)",
+        "coordinates": [
+            44.5033431,
+            -73.1809864
+        ]
+    },
+    {
+        "name": "McDonalds (Williston Road)",
+        "coordinates": [
+            44.466326,
+            -73.167954
+        ]
+    },
+    {
+        "name": "Meadow Mart",
+        "coordinates": [
+            44.2661308,
+            -72.5692594
+        ]
+    },
+    {
+        "name": "Mehurons Market Ltd",
+        "coordinates": [
+            44.1843981,
+            -72.8361609
+        ]
+    },
+    {
+        "name": "Middlebury Lions Club Food Booth",
+        "coordinates": [
+            44.102947,
+            -73.113134
+        ]
+    },
+    {
+        "name": "Mike & Tammy's Main Street Deli & Market",
+        "coordinates": [
+            43.18773,
+            -72.809447
+        ]
+    },
+    {
+        "name": "Milkhouse Ice Cream LLC",
+        "coordinates": [
+            44.4202516,
+            -72.0110308
+        ]
+    },
+    {
+        "name": "Miller's Country Store",
+        "coordinates": [
+            44.5575465,
+            -72.6091361
+        ]
+    },
+    {
+        "name": "MKT: Grafton LLC",
+        "coordinates": [
+            43.1719915,
+            -72.6075627
+        ]
+    },
+    {
+        "name": "Mojo Jomo",
+        "coordinates": [
+            44.2161408,
+            -72.5656427
+        ]
+    },
+    {
+        "name": "Mom & Pop's Country Store",
+        "coordinates": [
+            44.9025091,
+            -72.9499311
+        ]
+    },
+    {
+        "name": "Monkey Do",
+        "coordinates": [
+            44.4516177,
+            -73.1187586
+        ]
+    },
+    {
+        "name": "Montpelier Mart",
+        "coordinates": [
+            44.256739,
+            -72.5768483
+        ]
+    },
+    {
+        "name": "Morse Farm Sugar Works",
+        "coordinates": [
+            44.2866712,
+            -72.5434693
+        ]
+    },
+    {
+        "name": "Mountain Creamery",
+        "coordinates": [
+            43.6004805,
+            -72.5795752
+        ]
+    },
+    {
+        "name": "Nadia's Health, Wellness, Gift & Variety Store",
+        "coordinates": [
+            44.645556,
+            -73.305274
+        ]
+    },
+    {
+        "name": "Nan's Mobil",
+        "coordinates": [
+            44.674168,
+            -73.018905
+        ]
+    },
+    {
+        "name": "Newbury Village Store",
+        "coordinates": [
+            44.046326,
+            -72.080259
+        ]
+    },
+    {
+        "name": "Newport Natural LLC",
+        "coordinates": [
+            44.9358652,
+            -72.2098573
+        ]
+    },
+    {
+        "name": "Nick's Snack Shack",
+        "coordinates": [
+            44.7513555,
+            -72.180884
+        ]
+    },
+    {
+        "name": "North Country Hospital",
+        "coordinates": [
+            44.9565071,
+            -72.2008571
+        ]
+    },
+    {
+        "name": "North Tunbridge General Store LLC",
+        "coordinates": [
+            43.914396,
+            -72.478261
+        ]
+    },
+    {
+        "name": "Northfield Gulf",
+        "coordinates": [
+            44.134784,
+            -72.660943
+        ]
+    },
+    {
+        "name": "Northside Dairy Bar",
+        "coordinates": [
+            42.8995955,
+            -73.2098984
+        ]
+    },
+    {
+        "name": "Old Soul Farm",
+        "coordinates": [
+            44.1806576,
+            -72.5102583
+        ]
+    },
+    {
+        "name": "Olney's General Store",
+        "coordinates": [
+            44.8100806,
+            -72.2040614
+        ]
+    },
+    {
+        "name": "Olsen's Ice Cream",
+        "coordinates": [
+            44.1715423,
+            -73.2479902
+        ]
+    },
+    {
+        "name": "Orwell Gas N Go",
+        "coordinates": [
+            43.8111711,
+            -73.3124631
+        ]
+    },
+    {
+        "name": "Palmer Lane Maple",
+        "coordinates": [
+            44.5066748,
+            -72.992375
+        ]
+    },
+    {
+        "name": "Palmer Lane Maple Mobile Creemee Truck",
+        "coordinates": [
+            44.5066748,
+            -72.992375
+        ]
+    },
+    {
+        "name": "Palmer Lane Maple Mobile CreeMee Truck #2",
+        "coordinates": [
+            44.5066748,
+            -72.992375
+        ]
+    },
+    {
+        "name": "Palmer's Sugarhouse",
+        "coordinates": [
+            44.365265,
+            -73.1731011
+        ]
+    },
+    {
+        "name": "Pappa Nicks",
+        "coordinates": [
+            44.315299,
+            -73.2323285
+        ]
+    },
+    {
+        "name": "Paulin",
+        "coordinates": [
+            42.946301,
+            -73.210815
+        ]
+    },
+    {
+        "name": "Poulin & Daughters Cattle Farm #2",
+        "coordinates": [
+            43.9313812,
+            -72.6797534
+        ]
+    },
+    {
+        "name": "Quechee Mart",
+        "coordinates": [
+            43.62697,
+            -72.457391
+        ]
+    },
+    {
+        "name": "R L Vallee - Maplefields",
+        "coordinates": [
+            44.644652,
+            -72.833974
+        ]
+    },
+    {
+        "name": "R L Vallee - MapleFields",
+        "coordinates": [
+            44.9348508,
+            -72.2113896
+        ]
+    },
+    {
+        "name": "R L Vallee - Maplefields",
+        "coordinates": [
+            44.492907,
+            -73.1750093
+        ]
+    },
+    {
+        "name": "R L Vallee",
+        "coordinates": [
+            43.8998002,
+            -73.3079665
+        ]
+    },
+    {
+        "name": "R L Valley - Maplefields",
+        "coordinates": [
+            43.9721287,
+            -73.1160484
+        ]
+    },
+    {
+        "name": "RB's Deli LLC",
+        "coordinates": [
+            43.8203518,
+            -72.5216849
+        ]
+    },
+    {
+        "name": "Red Barn Ice Cream",
+        "coordinates": [
+            44.473819,
+            -72.712015
+        ]
+    },
+    {
+        "name": "Red Hen Baking Company",
+        "coordinates": [
+            44.241334,
+            -72.541512
+        ]
+    },
+    {
+        "name": "Refuel Cafe FunZone 2.0 (Centerplate)",
+        "coordinates": [
+            44.588386,
+            -72.789996
+        ]
+    },
+    {
+        "name": "Retreat Farm Ltd",
+        "coordinates": [
+            42.8627142,
+            -72.5676865
+        ]
+    },
+    {
+        "name": "RGS Nepali Market",
+        "coordinates": [
+            44.5156664,
+            -73.2571661
+        ]
+    },
+    {
+        "name": "Rick's Tavern",
+        "coordinates": [
+            42.9719003,
+            -72.6579576
+        ]
+    },
+    {
+        "name": "Rise 'n Shine",
+        "coordinates": [
+            44.3111932,
+            -73.2468663
+        ]
+    },
+    {
+        "name": "Riverbend Farm Market",
+        "coordinates": [
+            43.046003,
+            -72.670331
+        ]
+    },
+    {
+        "name": "Robo's Creemees & General Store",
+        "coordinates": [
+            43.6049597,
+            -73.2336968
+        ]
+    },
+    {
+        "name": "Rockys Pizza & Ice Cream",
+        "coordinates": [
+            44.489912,
+            -73.11163
+        ]
+    },
+    {
+        "name": "Roxies French Fries (Mobile Unit)",
+        "coordinates": [
+            43.6084541,
+            -73.2112677
+        ]
+    },
+    {
+        "name": "S Mazza Farmstand & Greenhouses",
+        "coordinates": [
+            44.528022,
+            -73.2017819
+        ]
+    },
+    {
+        "name": "Sandri",
+        "coordinates": [
+            44.4435274,
+            -73.1126591
+        ]
+    },
+    {
+        "name": "Sandy's Drive-In Restaurant",
+        "coordinates": [
+            43.782379,
+            -72.460899
+        ]
+    },
+    {
+        "name": "Scout & Co.",
+        "coordinates": [
+            44.4878189,
+            -73.2253332
+        ]
+    },
+    {
+        "name": "Scout & Co. East Allen",
+        "coordinates": [
+            44.4932288,
+            -73.1712717
+        ]
+    },
+    {
+        "name": "Sense of Humor LLC",
+        "coordinates": [
+            44.3387049,
+            -72.7561208
+        ]
+    },
+    {
+        "name": "Seward's Dairy & Deli Store",
+        "coordinates": [
+            43.6246619,
+            -72.9751432
+        ]
+    },
+    {
+        "name": "Shared Memories Inc",
+        "coordinates": [
+            43.5180748,
+            -73.2361473
+        ]
+    },
+    {
+        "name": "Shelburne Country Store",
+        "coordinates": [
+            44.3803938,
+            -73.2270101
+        ]
+    },
+    {
+        "name": "Shelburne Village Mobil",
+        "coordinates": [
+            44.3811104,
+            -73.2274804
+        ]
+    },
+    {
+        "name": "Sheldon Mini Mart Inc",
+        "coordinates": [
+            44.9035401,
+            -72.9768092
+        ]
+    },
+    {
+        "name": "Sheldons Market Corporation",
+        "coordinates": [
+            43.3466202,
+            -73.1773226
+        ]
+    },
+    {
+        "name": "Shiretown Marketplace",
+        "coordinates": [
+            44.0117457,
+            -73.1706955
+        ]
+    },
+    {
+        "name": "Siddiqy Food LLC",
+        "coordinates": [
+            43.4063198,
+            -72.4083611
+        ]
+    },
+    {
+        "name": "Silloway Maple",
+        "coordinates": [
+            43.939803,
+            -72.580343
+        ]
+    },
+    {
+        "name": "Silver Lake Syrups",
+        "coordinates": [
+            43.7242713,
+            -72.6029732
+        ]
+    },
+    {
+        "name": "Simons Montpelier Store & Deli",
+        "coordinates": [
+            44.2360874,
+            -72.5543098
+        ]
+    },
+    {
+        "name": "Simons Store Park Street",
+        "coordinates": [
+            44.4816964,
+            -73.2187059
+        ]
+    },
+    {
+        "name": "Sisters of Anarchy Ice Cream",
+        "coordinates": [
+            44.415353,
+            -73.1970227
+        ]
+    },
+    {
+        "name": "Skip Mart",
+        "coordinates": [
+            43.8747452,
+            -72.8080496
+        ]
+    },
+    {
+        "name": "Smith's Grocery",
+        "coordinates": [
+            44.5506186,
+            -72.2616275
+        ]
+    },
+    {
+        "name": "Snows Dairy Bar LLC",
+        "coordinates": [
+            43.064708,
+            -73.157422
+        ]
+    },
+    {
+        "name": "Sodexo at University of Vermont-Summit Hall",
+        "coordinates": [
+            44.4755393,
+            -73.1923453
+        ]
+    },
+    {
+        "name": "Solar Haven Farm LLC",
+        "coordinates": [
+            43.9211451,
+            -73.2763512
+        ]
+    },
+    {
+        "name": "Southern Vermont Hospitality LLC",
+        "coordinates": [
+            42.9459141,
+            -72.865281
+        ]
+    },
+    {
+        "name": "Splash at the Boathouse",
+        "coordinates": [
+            44.4770128,
+            -73.2226572
+        ]
+    },
+    {
+        "name": "Stanch's Place LLC",
+        "coordinates": [
+            43.1294313,
+            -72.4441851
+        ]
+    },
+    {
+        "name": "Star Cinemas of St. Johnsbury",
+        "coordinates": [
+            44.4179035,
+            -72.0161768
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            43.210721,
+            -73.0208
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            42.878257,
+            -73.1910603
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            43.606105,
+            -73.2596555
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            43.1726864,
+            -73.062651
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            43.521436,
+            -73.218305
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            42.763302,
+            -73.232327
+        ]
+    },
+    {
+        "name": "Stewart's Shop",
+        "coordinates": [
+            43.594002,
+            -73.039857
+        ]
+    },
+    {
+        "name": "Stewart's Shop (Grove St.)",
+        "coordinates": [
+            43.619255,
+            -72.984691
+        ]
+    },
+    {
+        "name": "Stewart's Shop (Woodstock Ave.)",
+        "coordinates": [
+            43.6174138,
+            -72.9575866
+        ]
+    },
+    {
+        "name": "Sticky Fingers Bakery",
+        "coordinates": [
+            42.966488,
+            -72.884483
+        ]
+    },
+    {
+        "name": "Stowe Mountain Resort",
+        "coordinates": [
+            44.456165,
+            -72.694284
+        ]
+    },
+    {
+        "name": "Stowe Sweets LLC",
+        "coordinates": [
+            44.4655804,
+            -72.6852487
+        ]
+    },
+    {
+        "name": "Sugar & Spice Restaurant",
+        "coordinates": [
+            43.608381,
+            -72.975886
+        ]
+    },
+    {
+        "name": "Sugar Ridge RV Village & Campground Inc",
+        "coordinates": [
+            44.4219541,
+            -72.1160548
+        ]
+    },
+    {
+        "name": "Sugar Shack",
+        "coordinates": [
+            43.084838,
+            -73.143994
+        ]
+    },
+    {
+        "name": "Suleman Enterprises Inc",
+        "coordinates": [
+            43.593598,
+            -73.033009
+        ]
+    },
+    {
+        "name": "Summit Lodge @ Okemo Mountain",
+        "coordinates": [
+            43.4213822,
+            -72.7133926
+        ]
+    },
+    {
+        "name": "Summit Store #1 The Barn",
+        "coordinates": [
+            43.9441479,
+            -72.6248953
+        ]
+    },
+    {
+        "name": "Swanton Gulf",
+        "coordinates": [
+            44.9192854,
+            -73.1247293
+        ]
+    },
+    {
+        "name": "Sweet Clover Market LLC",
+        "coordinates": [
+            44.509197,
+            -73.078585
+        ]
+    },
+    {
+        "name": "Sweet Roots Farm LLC",
+        "coordinates": [
+            44.2916329,
+            -73.242075
+        ]
+    },
+    {
+        "name": "Sweet Scoops",
+        "coordinates": [
+            44.7585918,
+            -72.1919872
+        ]
+    },
+    {
+        "name": "Sweet Scoops",
+        "coordinates": [
+            44.814925,
+            -72.206386
+        ]
+    },
+    {
+        "name": "Sweet Scoops",
+        "coordinates": [
+            43.9231504,
+            -72.6648953
+        ]
+    },
+    {
+        "name": "Sweet Scoops Essex",
+        "coordinates": [
+            44.5104609,
+            -73.0728403
+        ]
+    },
+    {
+        "name": "Tenney Enterprises",
+        "coordinates": [
+            44.3191283,
+            -73.1876751
+        ]
+    },
+    {
+        "name": "The Apple Barn & Bake Shop",
+        "coordinates": [
+            42.868859,
+            -73.196086
+        ]
+    },
+    {
+        "name": "The Bay Store",
+        "coordinates": [
+            44.807779,
+            -73.1396644
+        ]
+    },
+    {
+        "name": "The Bridge Restaurant",
+        "coordinates": [
+            44.036841,
+            -73.417801
+        ]
+    },
+    {
+        "name": "The Bromley Market",
+        "coordinates": [
+            43.230635,
+            -72.896687
+        ]
+    },
+    {
+        "name": "The Elmore Sugarhouse LLC",
+        "coordinates": [
+            44.5318022,
+            -72.5184754
+        ]
+    },
+    {
+        "name": "The Flying Disc",
+        "coordinates": [
+            44.9073882,
+            -72.8047754
+        ]
+    },
+    {
+        "name": "The Forest Country Store",
+        "coordinates": [
+            44.2827983,
+            -72.2736746
+        ]
+    },
+    {
+        "name": "The Hatchery",
+        "coordinates": [
+            43.3960395,
+            -72.6998923
+        ]
+    },
+    {
+        "name": "The Mill Market",
+        "coordinates": [
+            44.4229347,
+            -73.1727202
+        ]
+    },
+    {
+        "name": "The Pick & Shovel",
+        "coordinates": [
+            44.9355403,
+            -72.2077946
+        ]
+    },
+    {
+        "name": "The Pomfret Road General Store LLC",
+        "coordinates": [
+            43.6648688,
+            -72.5387685
+        ]
+    },
+    {
+        "name": "The Sudbury Shoppe",
+        "coordinates": [
+            43.76028,
+            -73.1953853
+        ]
+    },
+    {
+        "name": "The Tunbridge General Store",
+        "coordinates": [
+            43.915107,
+            -72.4773
+        ]
+    },
+    {
+        "name": "The Venetian Soda Lounge LLC",
+        "coordinates": [
+            44.4722884,
+            -73.2144904
+        ]
+    },
+    {
+        "name": "The Village Scoop",
+        "coordinates": [
+            44.5472831,
+            -73.1569121
+        ]
+    },
+    {
+        "name": "Thomas Farm & Garden",
+        "coordinates": [
+            44.197295,
+            -72.516115
+        ]
+    },
+    {
+        "name": "Three Bears Country Barn LLC",
+        "coordinates": [
+            44.149813,
+            -72.086027
+        ]
+    },
+    {
+        "name": "Tirolo LLC",
+        "coordinates": [
+            44.4522708,
+            -73.2157944
+        ]
+    },
+    {
+        "name": "TJ's Creemees",
+        "coordinates": [
+            44.9025091,
+            -72.9499311
+        ]
+    },
+    {
+        "name": "Toby's Treats",
+        "coordinates": [
+            44.624095,
+            -73.223086
+        ]
+    },
+    {
+        "name": "Toby's Treats",
+        "coordinates": [
+            44.8264551,
+            -73.0805878
+        ]
+    },
+    {
+        "name": "Tootsie's dba Dow's Crossing Farm LLC",
+        "coordinates": [
+            44.5029823,
+            -72.3632742
+        ]
+    },
+    {
+        "name": "Toziers Restaurant New",
+        "coordinates": [
+            43.8017762,
+            -72.6643778
+        ]
+    },
+    {
+        "name": "Tree Corners Family Campground",
+        "coordinates": [
+            44.813355,
+            -72.327896
+        ]
+    },
+    {
+        "name": "Trow Hill Grocery",
+        "coordinates": [
+            44.1917975,
+            -72.4804475
+        ]
+    },
+    {
+        "name": "Troy General Store",
+        "coordinates": [
+            44.903896,
+            -72.40489
+        ]
+    },
+    {
+        "name": "Untapped LLC",
+        "coordinates": [
+            44.4452772,
+            -73.1327263
+        ]
+    },
+    {
+        "name": "UVM Medical Center Nutrition Services",
+        "coordinates": [
+            44.481118,
+            -73.195473
+        ]
+    },
+    {
+        "name": "Vermont 110 QuickStop Inc",
+        "coordinates": [
+            43.9861421,
+            -72.4481254
+        ]
+    },
+    {
+        "name": "Vermont Cookie Love",
+        "coordinates": [
+            44.2482389,
+            -73.2308405
+        ]
+    },
+    {
+        "name": "Vermont Country Store",
+        "coordinates": [
+            43.225511,
+            -72.544538
+        ]
+    },
+    {
+        "name": "Vermont Food Collaborative, LLC",
+        "coordinates": [
+            44.0868452,
+            -73.1761257
+        ]
+    },
+    {
+        "name": "Vermont Maple CreeMee Company/Ice Cream Truck",
+        "coordinates": [
+            44.4673752,
+            -73.2124542
+        ]
+    },
+    {
+        "name": "Vermont Maple Market",
+        "coordinates": [
+            43.994223,
+            -73.1436354
+        ]
+    },
+    {
+        "name": "Vermont Maple Outlet",
+        "coordinates": [
+            44.6478328,
+            -72.8292112
+        ]
+    },
+    {
+        "name": "Vermont Roots Farmstand",
+        "coordinates": [
+            44.242392,
+            -73.244994
+        ]
+    },
+    {
+        "name": "Vermont Snack Shack",
+        "coordinates": [
+            43.6523961,
+            -72.3298521
+        ]
+    },
+    {
+        "name": "Village Chocolate Shop",
+        "coordinates": [
+            42.878049,
+            -73.194832
+        ]
+    },
+    {
+        "name": "Village Creeme Stand",
+        "coordinates": [
+            44.1343081,
+            -73.0840807
+        ]
+    },
+    {
+        "name": "Village Green Market",
+        "coordinates": [
+            44.1236571,
+            -73.1544386
+        ]
+    },
+    {
+        "name": "Village Grocery",
+        "coordinates": [
+            44.190793,
+            -72.8241863
+        ]
+    },
+    {
+        "name": "Virgil & Constance, Home & Garden",
+        "coordinates": [
+            43.7757983,
+            -73.0547267
+        ]
+    },
+    {
+        "name": "VT Country Deli",
+        "coordinates": [
+            42.8502859,
+            -72.5826154
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            42.8970932,
+            -73.2122271
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            44.2161408,
+            -72.5656427
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            44.950587,
+            -72.1719736
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            43.6128,
+            -72.962959
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            44.8422477,
+            -73.0873042
+        ]
+    },
+    {
+        "name": "Walmart",
+        "coordinates": [
+            44.4414697,
+            -73.1222786
+        ]
+    },
+    {
+        "name": "Warners Snack Bar",
+        "coordinates": [
+            44.812653,
+            -73.083133
+        ]
+    },
+    {
+        "name": "Wayside Restaurant & Bakery",
+        "coordinates": [
+            44.2351206,
+            -72.5546059
+        ]
+    },
+    {
+        "name": "Wendy's of Vermont",
+        "coordinates": [
+            44.9408907,
+            -72.2054927
+        ]
+    },
+    {
+        "name": "West Barnet Quick Stop",
+        "coordinates": [
+            44.3113375,
+            -72.1347552
+        ]
+    },
+    {
+        "name": "West Enosburg Country Store LLC",
+        "coordinates": [
+            44.8718057,
+            -72.7973298
+        ]
+    },
+    {
+        "name": "West Street Corner",
+        "coordinates": [
+            43.605415,
+            -72.996804
+        ]
+    },
+    {
+        "name": "Westcom's",
+        "coordinates": [
+            44.8047611,
+            -72.7879585
+        ]
+    },
+    {
+        "name": "Westford Country Store & Cafe LLC",
+        "coordinates": [
+            44.6114071,
+            -73.0100705
+        ]
+    },
+    {
+        "name": "White Caps Campground",
+        "coordinates": [
+            44.7177156,
+            -72.029812
+        ]
+    },
+    {
+        "name": "White Cottage Snack Bar",
+        "coordinates": [
+            43.630419,
+            -72.505599
+        ]
+    },
+    {
+        "name": "Will's Store",
+        "coordinates": [
+            43.9861421,
+            -72.4481254
+        ]
+    },
+    {
+        "name": "Wilson Herb Farm Ltd dba Wilson Farm Market",
+        "coordinates": [
+            44.5634142,
+            -72.3053972
+        ]
+    },
+    {
+        "name": "Woodstock Scoops LLC",
+        "coordinates": [
+            43.6255266,
+            -72.5177874
+        ]
+    },
+    {
+        "name": "Yogurt City of Maple Tree Place Inc",
+        "coordinates": [
+            44.812716,
+            -72.977128
+        ]
+    }
+]
+
+  
